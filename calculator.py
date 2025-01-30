@@ -1,2 +1,2 @@
 def add(first_number: int, second_number: int):
-    return 4
+    return first_number + second_number
