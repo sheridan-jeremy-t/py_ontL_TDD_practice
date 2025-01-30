@@ -8,3 +8,9 @@ def test_two_plus_two():
     assert calculator.add(2,2) == 4
 def test_five_plus_seven():
     assert calculator.add(5,7) == 12
+def test_no_parameters():
+    """
+    Asserts that when you enter no parameters 0 is returned
+    :return:
+    """
+    assert calculator.add() == 0
