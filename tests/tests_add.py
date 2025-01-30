@@ -6,3 +6,5 @@ def test_two_plus_two():
     :return:
     """
     assert calculator.add(2,2) == 4
+def test_five_plus_seven():
+    assert calculator.add(5,7) == 12
