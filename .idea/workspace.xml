@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39b6ca63-83a6-4671-abc0-f2d645ea1a6f" name="Changes" comment="step 6">
-      <change beforePath="$PROJECT_DIR$/tests/tests_add.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/tests_add.py" afterDir="false" />
-    </list>
+    <list default="true" id="39b6ca63-83a6-4671-abc0-f2d645ea1a6f" name="Changes" comment="step 10-2 all tests pass. End of lesson" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +115,55 @@
       <option name="project" value="LOCAL" />
       <updated>1738251508944</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="step 7 test failed due to making the variable have a type annotation of type int">
+      <option name="closed" value="true" />
+      <created>1738251776893</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738251776893</updated>
+    </task>
+    <task id="LOCAL-00009" summary="step 7 test failed due to making the variable have a type annotation of type int">
+      <option name="closed" value="true" />
+      <created>1738251790889</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738251790889</updated>
+    </task>
+    <task id="LOCAL-00010" summary="step 8 - added default values to the variables">
+      <option name="closed" value="true" />
+      <created>1738251849909</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738251849909</updated>
+    </task>
+    <task id="LOCAL-00011" summary="step 9 added tests for multiple arguments">
+      <option name="closed" value="true" />
+      <created>1738251967902</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738251967902</updated>
+    </task>
+    <task id="LOCAL-00012" summary="step 10 added wildcard to add function - all tests failed">
+      <option name="closed" value="true" />
+      <created>1738252079869</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1738252079869</updated>
+    </task>
+    <task id="LOCAL-00013" summary="step 10-2 all tests pass. End of lesson">
+      <option name="closed" value="true" />
+      <created>1738252255943</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1738252255943</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -128,6 +174,11 @@
     <MESSAGE value="step 4" />
     <MESSAGE value="step 5" />
     <MESSAGE value="step 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="step 6" />
+    <MESSAGE value="step 7 test failed due to making the variable have a type annotation of type int" />
+    <MESSAGE value="step 8 - added default values to the variables" />
+    <MESSAGE value="step 9 added tests for multiple arguments" />
+    <MESSAGE value="step 10 added wildcard to add function - all tests failed" />
+    <MESSAGE value="step 10-2 all tests pass. End of lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="step 10-2 all tests pass. End of lesson" />
   </component>
 </project>
