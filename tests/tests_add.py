@@ -14,3 +14,7 @@ def test_no_parameters():
     :return:
     """
     assert calculator.add() == 0
+def test_with_three_args():
+    assert calculator.add(1,2,3) == 6
+def test_with_five_args():
+    assert calculator.add(1,2,3,4,5) == 15
